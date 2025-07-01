@@ -55,4 +55,5 @@ function clearAll(){
   localStorage.removeItem('studentArray');
 }
 
+// todo: conal => coding journal
 
